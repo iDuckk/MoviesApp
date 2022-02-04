@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="not_found_name">not found</string>
+    <string name="Year_Detail_Fragment">Год: </string>
+    <string name="Rating_Detail_Fragment">Рейтинг: </string>
+    <string name="mainTitle">Главная</string>
+    <string name="loading">Loading...</string>
+</resources>

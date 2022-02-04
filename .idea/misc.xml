@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/Movies/app/src/main/res/drawable-v24/corner_view_image.xml" value="0.139" />
+        <entry key="..\:/AndroidStudioProjects/Movies/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.139" />
+        <entry key="..\:/AndroidStudioProjects/Movies/app/src/main/res/drawable/corner_view.xml" value="0.1605" />
+        <entry key="..\:/AndroidStudioProjects/Movies/app/src/main/res/drawable/corner_view_name.xml" value="0.108" />
+        <entry key="..\:/AndroidStudioProjects/Movies/app/src/main/res/drawable/corner_view_title.xml" value="0.211" />
+        <entry key="..\:/AndroidStudioProjects/Movies/app/src/main/res/drawable/corner_view_title_click.xml" value="0.108" />
+        <entry key="..\:/AndroidStudioProjects/Movies/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/AndroidStudioProjects/Movies/app/src/main/res/layout/fragment_detail_movie.xml" value="0.3359253499222395" />
+        <entry key="..\:/AndroidStudioProjects/Movies/app/src/main/res/layout/fragment_item.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidStudioProjects/Movies/app/src/main/res/layout/fragment_item_Image.xml" value="0.161231884057971" />
+        <entry key="..\:/AndroidStudioProjects/Movies/app/src/main/res/layout/fragment_item_image.xml" value="0.35084033613445376" />
+        <entry key="..\:/AndroidStudioProjects/Movies/app/src/main/res/layout/fragment_item_list.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/Movies/app/src/main/res/layout/fragment_load.xml" value="0.559375" />
+        <entry key="..\:/AndroidStudioProjects/Movies/app/src/main/res/layout/fragment_movi_list.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/Movies/app/src/main/res/layout/item_genres.xml" value="0.18085106382978725" />
+        <entry key="..\:/AndroidStudioProjects/Movies/app/src/main/res/layout/item_movies.xml" value="0.18085106382978725" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
